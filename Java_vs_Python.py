@@ -1,3 +1,5 @@
+#The purpose of this code is to understand execution of if and else loop when not properly structured
+#Here the code is not properly structured 
 x=10
 if x == "Java" or "Python":
   print("This one")
