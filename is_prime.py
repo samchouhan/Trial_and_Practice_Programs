@@ -1,5 +1,7 @@
 #A prime number is a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers. A prime number is only divisible by 1 and itself. The first few prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, and so on.
 #So prime number can only be formed by multiplying 1 and itself.
+#We can also solve the same with class method
+#We can create a class and define the following loop into a function and then call that class with an object
 
 num=int(input("Enter a number: "))
 if num<1:
