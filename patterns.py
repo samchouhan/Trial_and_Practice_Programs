@@ -1,4 +1,6 @@
 #This shows how a single problem can be solved in multiple ways with same output.
+#Same problem but different approach and diverse way of solving 
+#Making the code less redundant and mundane and more shorter and faster exceution
 """
 print("******")
 print("*****")
